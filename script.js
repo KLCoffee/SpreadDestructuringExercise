@@ -75,6 +75,3 @@ const bonus = {
 const all = [...bonus.first, ...bonus.second, ...bonus.third];
 console.log(all);
 
-// 5b.
-const {1:one, 2:two, 3:three} = first;
-console.log(first);
